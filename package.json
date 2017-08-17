@@ -1,0 +1,19 @@
+{
+  "name": "sped",
+  "version": "1.0.0",
+  "description": "like sed but it's sped",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "uwx",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0",
+    "diff": "^3.3.0",
+    "fs-extra": "github:uwx/node-fs-extra",
+    "glob": "^7.1.2",
+    "minimatch": "^3.0.4"
+  }
+}
